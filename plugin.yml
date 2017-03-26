@@ -1,0 +1,21 @@
+########################################
+##             Staff Chat             ##
+##            Version 1.0             ##
+##         Made By Eartharoid         ##
+########################################
+main: me.eartharoid.staffchat.Main
+name: StaffChat
+version: 1.0
+author: Eartharoid
+description: Creates A Private Chat Channel For Staff.
+website: eartharoid.me/plugin/staffchat
+commands:
+  staffchat:
+    description: Say Something To The Staff Chat.
+    aliases: [s, sc]
+    permission: staffchat.use
+    permission-message: You Do Not Have Permission To Do That!
+    usage: /s <text>
+permissions:
+  staffchat.use:
+  

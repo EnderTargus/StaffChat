@@ -1,0 +1,22 @@
+########################################
+##            Staff Chat              ##
+##            Version 1.0             ##
+##         Made By Eartharoid         ##
+########################################
+##         Plugin Support Page        ##
+##   eartharoid.me/plugin/staffchat   ##
+##                                    ##
+##  Do Not Remove Anything In Green   ##
+##     And Follow The Support Page    ##
+########################################
+
+## Config Version - Do Not Change ##
+Version: 1.0
+
+## Prefix - For The Join / Leave Channel Messages ##
+Prefix: '&9Staff Chat >>'
+
+## Format - What The Staff Channel Will Look Like ##
+Format: '&9[&b%player%&9] &e%message%'
+
+
